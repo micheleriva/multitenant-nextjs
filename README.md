@@ -3,14 +3,14 @@
 This is a test repository for testing Next.js' multi-tenant capabilities with a custom Express.js server.
 
 ## To do
-[ ] Support dynamic routes
-[ ] Build phase
-[ ] Docker image
+- [ ] Support dynamic routes
+- [ ] Build phase
+- [ ] Docker image
 
 ## Done
-[X] Multiple layout
-[X] Multiple tenants
-[X] Page routing
+- [x] Multiple layout
+- [x] Multiple tenants
+- [x] Page routing
 
 ## Please do not care about
 - CSS
